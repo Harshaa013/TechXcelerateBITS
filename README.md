@@ -12,9 +12,8 @@ Traffic congestion causes delays, pollution, and inefficiency due to fixed signa
 ✅ Interactive Dashboard – Visualizes traffic data and AI decisions.
 
 # Tech Stack
-Backend: Python (FastAPI, Flask), Node.js
-AI/ML: , PyTorch, Scikit-Learn
-Frontend: React.js, D3.js, TailwindCSS
+Modules Used : Pytorch, numpy, CV2.
+Models Used : Yolo Model, Q learning model.
 
 # Contributors
 V R Akshay Krishnaa - Team Lead - Backend Developer.
