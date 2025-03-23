@@ -15,3 +15,8 @@ Traffic congestion causes delays, pollution, and inefficiency due to fixed signa
 Backend: Python (FastAPI, Flask), Node.js
 AI/ML: , PyTorch, Scikit-Learn
 Frontend: React.js, D3.js, TailwindCSS
+
+# Contributors
+V R Akshay Krishnaa - Team Lead - Backend Developer.
+M Farraan - R&D - Prompt Engineer 
+S Sri Harsha - Frontend Developer - Web Application, UI/UX Design.
