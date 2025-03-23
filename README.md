@@ -1,7 +1,7 @@
-### TechXcelerateBITS
+# TechXcelerateBITS
 
 
-## AI-Powered Traffic Signal Optimization
+# AI-Powered Traffic Signal Optimization
 
 
 # Project Overview
